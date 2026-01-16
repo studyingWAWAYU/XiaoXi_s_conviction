@@ -1,0 +1,4 @@
+repository "网易mini game@unity_5e314307e38fd4f983f6@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
